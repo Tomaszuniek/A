@@ -1,3 +1,5 @@
+#include <konstruktor.h>
+#include <miejscezerowe.h>
 
 class Kwadrat{
 
